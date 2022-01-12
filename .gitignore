@@ -1,2 +1,5 @@
+# Ignore python notebook checkpoints in repository
+.ipynb_checkpoints
+
 # General
 .DS_Store
